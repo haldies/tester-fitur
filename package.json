@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Generate a changelog from git metadata.",
+  "author": {
+    "name": "Steve Mao",
+    "email": "maochenyan@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
